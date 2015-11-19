@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[br]]></title>
+        <description><![CDATA[br]]></description>
+        <link>https://thegrid.ai/br/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 00:55:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor</p>]]></description>
+            <link>https://thegrid.ai/br/113d6c8c-7290-4b96-9b31-c523613ad6bd/index.html</link>
+            <guid isPermaLink="false">113d6c8c-7290-4b96-9b31-c523613ad6bd</guid>
+            <pubDate>Thu, 19 Nov 2015 00:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/br/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4c81adb2-aa5a-4626-98c4-51e473fb3366</guid>
+            <pubDate>Thu, 19 Nov 2015 00:53:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
