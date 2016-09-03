@@ -1,19 +1,4 @@
-name: br
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#20130b'
@@ -25,4 +10,23 @@ color:
   lightness: 0.125
   saturation: 0.1875
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: br
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Getting Started on The Grid
+    id: 4c81adb2-aa5a-4626-98c4-51e473fb3366
+    type: content
+favicon: null
 purpose: []
