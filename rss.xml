@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[br]]></title>
         <description><![CDATA[br]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 00:54:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 16:13:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">4c81adb2-aa5a-4626-98c4-51e473fb3366</guid>
-            <pubDate>Thu, 19 Nov 2015 00:53:50 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor</p>]]></description>
+            <link>https://thegrid.ai/br/113d6c8c-7290-4b96-9b31-c523613ad6bd/index.html</link>
+            <guid isPermaLink="false">113d6c8c-7290-4b96-9b31-c523613ad6bd</guid>
+            <pubDate>Thu, 19 Nov 2015 00:54:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
